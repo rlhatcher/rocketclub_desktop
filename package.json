@@ -1,0 +1,19 @@
+{
+  "name": "rocketclub_desktop",
+  "version": "0.1.0",
+  "description": "Rocket Club Desktop",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "rocketclub_desktop"
+  },
+  "author": "Ronald Hatcher",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "electron": "^7.0.1"
+  }
+}
