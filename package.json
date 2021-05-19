@@ -14,6 +14,6 @@
   "author": "Ronald Hatcher",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "electron": "^7.2.4"
+    "electron": "^9.4.0"
   }
 }
